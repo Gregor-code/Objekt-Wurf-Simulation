@@ -1,0 +1,11 @@
+{
+  "name": "objekt-wurf-simulation",
+  "version": "1.0.0",
+  "description": "Programm, zur Simulation von Würfen",
+  "main": "index.js",
+  "scripts": {
+    "wurf": "node index.js"
+  },
+  "author": "Gregor Köhler",
+  "license": "MIT"
+}
